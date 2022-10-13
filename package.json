@@ -1,0 +1,19 @@
+{
+  "name": "myservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^11.1.1"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "offline": "^0.0.1",
+    "start": "^5.1.0"
+  }
+}
